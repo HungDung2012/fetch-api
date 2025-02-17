@@ -8,7 +8,7 @@ function App() {
   return (
     <>
       <div>
-        this is Product
+        this is Product and App
       </div>
       <Product />
     </>
